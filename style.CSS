@@ -148,10 +148,10 @@ ul{
 
 
  .contacts {
-    height: 92.84854125976562px;
-    max-width: 496.6465148925781px; 
-    left: -302.1888122558594px; 
-    top: 224.59808349609375px;
+    /* height: 92.84854125976562px; */
+    /* max-width: 496.6465148925781px;  */
+    /* left: -302.1888122558594px;  */
+    /* top: 224.59808349609375px; */
     width: 70%;
     border-radius: nullpx;
     /* text-align: left; */
@@ -161,10 +161,10 @@ ul{
 }
 
 .address {
-    height: 92.84854125976562px;
-    max-width: 278.9985046386719px; 
-    left: 225.1329345703125px; 
-    top: 224.59808349609375px;
+    /* height: 92.84854125976562px; */
+    /* max-width: 278.9985046386719px;  */
+    /* left: 225.1329345703125px;  */
+    /* top: 224.59808349609375px; */
     width: 30%;
     border-radius: nullpx;
     text-align:justify;
