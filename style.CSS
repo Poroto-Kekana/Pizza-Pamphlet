@@ -38,10 +38,6 @@ img {
 
 .mediumpizza {
     background-color: red;
-    /* height: 403.6893310546875px;
-    width: 299.4486389160156px;
-    left: -36.33685302734375px; */
-    /* top: -210.040771484375px; */
     border-radius: 1em;
     margin: 1em 0.7em 1em 0.7em;
     position: static;
@@ -51,10 +47,6 @@ img {
 
 .largepizza {
     background-color: orangered;  
-    /* height: 403.6893310546875px;
-    width: 299.4486389160156px;
-    left: -36.33685302734375px; */
-    /* top: -210.040771484375px; */
     border-radius: 2em;
     margin: 1em 0.7em 1em 0.7em; 
     position: static;
@@ -63,10 +55,6 @@ img {
 
 .smallpizza {
     background-color: yellow;
-    /* height: 403.6893310546875px;
-    width: 299.4486389160156px;
-    left: -36.33685302734375px; */
-    /* top: -210.040771484375px; */
     border-radius: 1em;
     margin: 1em 0.7em 1em 0.7em; 
     position: static;
