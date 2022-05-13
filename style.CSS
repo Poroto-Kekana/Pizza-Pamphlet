@@ -6,7 +6,7 @@ h1{
 }
 
 @media(min-width: 700px) {
-    .pizzas, .bottom, .container{
+    .pizzas , .bottom, .container{
     display: flex;
     }
 }
@@ -20,7 +20,7 @@ h1{
     text-align: center;
     width:auto !important;
     margin: auto !important;
-    border-radius: 2em;
+    border-radius: 2em; 
 
 }
 
@@ -59,15 +59,17 @@ img {
     margin: 1em 0.7em 1em 0.7em; 
     position: static;
     flex: 1.5;
-
 }
 
-.smallpizza img {
-    background-color: white;
-    float:inherit;
-    margin: 13.46px 16.07px 1em 3em;
+/* .smallpizza img {
+    background-color: greenyellow;
+    float:none; 
+    margin: .7em 1em 1em 15em;
+    width: 50%;
+    position:static;
+    flex: auto;
 
-}
+} */
 
 .description {
     
