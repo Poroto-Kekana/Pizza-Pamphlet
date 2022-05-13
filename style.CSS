@@ -26,6 +26,7 @@ h1{
 
 .pizza {
     flex: 1;
+    padding-bottom: 1.5em; 
 }
 
 img {
@@ -74,7 +75,7 @@ img {
 .description {
     
     font-style: normal;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 16px;
     line-height: 100%;
     text-align: Left;
