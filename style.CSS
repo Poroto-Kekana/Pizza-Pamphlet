@@ -143,7 +143,7 @@ ul{
     /* max-width: 496.6465148925781px;  */
     /* left: -302.1888122558594px;  */
     /* top: 224.59808349609375px; */
-    width: 70%;
+    width: 50%;
     border-radius: nullpx;
     /* text-align: left; */
     /* position: static; */
@@ -156,8 +156,8 @@ ul{
     /* max-width: 278.9985046386719px;  */
     /* left: 225.1329345703125px;  */
     /* top: 224.59808349609375px; */
-    width: 30%;
-    border-radius: nullpx;
+    width: 50%;
+    /* border-radius: nullpx; */
     text-align:justify;
     /* text-align: left; */
     /* position:static; */
